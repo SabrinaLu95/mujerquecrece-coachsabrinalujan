@@ -11,8 +11,8 @@ const About = () => {
               <img
                 src={portrait}
                 alt="Sabrina Luján - Coach Ontológica"
-                className="w-full h-full object-cover"
-              />
+                className="w-full h-full object-cover" />
+              
             </div>
             <div className="absolute -bottom-6 -right-6 w-32 h-32 bg-sage-light rounded-full -z-10 opacity-60" />
           </div>
@@ -26,10 +26,10 @@ const About = () => {
               Mi camino: de cuidar a otros a cuidarme a mí misma
             </h2>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
-              <p>
-                Soy Sabrina Luján, enfermera y coach ontológica. Durante años me dediqué a cuidar de otros
-                en el ámbito de la salud, hasta que entendí que no podía sostener a nadie si primero no me
-                sostenía a mí misma.
+              <p>Soy Sabrina Luján, enfermera y coach ontológica. Durante años me dediqué a cuidar de otros en el clínicas y hospitales, hasta que entendí que no podía sostener a nadie si primero no me sostenía a mí misma.
+
+
+
               </p>
               <p>
                 La maternidad fue un punto de inflexión. Me enfrenté a la necesidad de reinventarme, de
@@ -62,8 +62,8 @@ const About = () => {
           </div>
         </div>
       </div>
-    </section>
-  );
+    </section>);
+
 };
 
 export default About;
