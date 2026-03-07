@@ -29,7 +29,7 @@ const About = () => {
               <p>Desde que era niña supe que quería dedicar mi vida a ayudar a otros elegí enfermería, convencida de que quería estar cerca de las personas en los momentos más vulnerables de sus vidas.
 
               </p>
-              <p>elegí enfermería, convencida de que quería estar cerca de las personas en los momentos más vulnerables de sus vidas.
+              <p>
 
               </p>
               <p>
