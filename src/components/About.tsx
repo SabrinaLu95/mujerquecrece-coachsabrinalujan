@@ -9,10 +9,10 @@ const About = () => {
           <div className="relative">
             <div className="aspect-[4/5] rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src={portrait}
+
                 alt="Sabrina Luján - Coach Ontológica"
-                className="w-full h-full object-cover"
-              />
+                className="w-full h-full object-cover" src="/lovable-uploads/1575934d-ecbe-4603-98eb-3fd8108893bf.jpg" />
+              
             </div>
             <div className="absolute -bottom-6 -right-6 w-32 h-32 bg-sage-light rounded-full -z-10 opacity-60" />
           </div>
@@ -26,11 +26,11 @@ const About = () => {
               Mi camino: de cuidar a otros a cuidarme a mí misma
             </h2>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
-              <p>
-                Desde que era niña supe que quería dedicar mi vida a ayudar a otros.
+              <p>Desde que era niña supe que quería dedicar mi vida a ayudar a otros elegí enfermería, convencida de que quería estar cerca de las personas en los momentos más vulnerables de sus vidas.
+
               </p>
-              <p>
-                Mis padres cuentan que cuando vi a mi abuela internada por primera vez dije que quería ser médica. Con los años rendí varios ingresos universitarios: medicina, bioimágenes y enfermería. Finalmente elegí enfermería, convencida de que quería estar cerca de las personas en los momentos más vulnerables de sus vidas.
+              <p>elegí enfermería, convencida de que quería estar cerca de las personas en los momentos más vulnerables de sus vidas.
+
               </p>
               <p>
                 Durante años ejercí la profesión con entrega y compromiso. Sin embargo, con el tiempo empecé a sentir un profundo agotamiento. El sistema de salud muchas veces se vuelve ingrato: largas jornadas, desgaste físico y emocional, y una sensación constante de que el esfuerzo nunca es suficiente.
@@ -92,8 +92,8 @@ const About = () => {
           </div>
         </div>
       </div>
-    </section>
-  );
+    </section>);
+
 };
 
 export default About;
