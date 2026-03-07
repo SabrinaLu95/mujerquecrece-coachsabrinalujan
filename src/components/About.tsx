@@ -27,19 +27,9 @@ const About = () => {
             </h2>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                Desde que era niña supe que quería dedicar mi vida a ayudar a otros. Mis padres cuentan que cuando vi a mi abuela internada por primera vez dije que quería ser médica. Con los años rendí varios ingresos universitarios: medicina, bioimágenes y enfermería. Finalmente elegí enfermería, convencida de que quería estar cerca de las personas en los momentos más vulnerables de sus vidas.
-              </p>
-              <p>
-                Durante años ejercí la profesión con entrega y compromiso. Sin embargo, con el tiempo empecé a sentir un profundo agotamiento. Ese cansancio me llevó a hacerme una pregunta profunda: <em>¿Esta es realmente la única forma de ayudar a las personas?</em>
-              </p>
-              <p>
-                En ese proceso descubrí el coaching ontológico. Dejé de sentirme víctima de las circunstancias y empecé a comprender algo fundamental: <strong>nuestra realidad cambia cuando cambia nuestra forma de interpretarla.</strong>
-              </p>
-              <p>
-                En 2022 tomé una decisión que transformó mi vida: dejé temporalmente mi trabajo como enfermera y me mudé a Brasil. Allí profundicé en terapias alternativas y en mi propio proceso personal. Ese viaje me permitió comprender que somos energía en constante transformación.
-              </p>
-              <p>
-                Volví con una mirada completamente distinta. Regresé a la enfermería con herramientas nuevas, más conciencia y una certeza: <strong>la forma más profunda de ayudar a alguien no es hacer las cosas por esa persona, sino ayudarla a descubrir su propio poder.</strong>
+
+
+
               </p>
               <p>
                 La maternidad fue un punto de inflexión. Me enfrenté a la necesidad de reinventarme, de
@@ -55,8 +45,15 @@ const About = () => {
             <div className="pt-4">
               <h3 className="font-display font-semibold text-foreground mb-3">Formación</h3>
               <ul className="space-y-2 text-muted-foreground">
-                <li className="flex items-start gap-2">
-                  <span className="w-1.5 h-1.5 rounded-full bg-primary mt-2 shrink-0" />
+                <li className="flex items-start gap-2">Creo profundamente en algo:
+
+Cada ser humano tiene un potencial enorme que muchas veces permanece oculto por miedo, por creencias o por lo que nos enseñaron sobre ser “humildes”.
+
+Mi misión es ayudarte a ver ese poder que ya habita en vos.
+
+Porque cuando una mujer vuelve a creer en sí misma, algo dentro suyo se enciende nuevamente.
+
+Y cuando eso ocurre, empieza a crear una vida diferente.<span className="w-1.5 h-1.5 rounded-full bg-primary mt-2 shrink-0" />
                   Enfermera profesional
                 </li>
                 <li className="flex items-start gap-2">
@@ -72,8 +69,4 @@ const About = () => {
           </div>
         </div>
       </div>
-    </section>);
-
-};
-
-export default About;
+    </section>);};export default About;
