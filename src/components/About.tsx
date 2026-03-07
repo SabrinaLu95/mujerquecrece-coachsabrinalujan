@@ -26,7 +26,7 @@ const About = () => {
               Mi camino: de cuidar a otros a cuidarme a mí misma
             </h2>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
-              <p>Soy Sabrina Luján, enfermera y coach ontológica. Durante años me dediqué a cuidar de otros en el clínicas y hospitales, hasta que entendí que no podía sostener a nadie si primero no me sostenía a mí misma.
+              <p>
 
 
 
