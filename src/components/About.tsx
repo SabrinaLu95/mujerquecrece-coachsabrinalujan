@@ -67,8 +67,19 @@ const About = () => {
               <p>
                 Las mujeres que llegan a mis sesiones suelen sentirse desbordadas, con muchas ideas y poca claridad. Después del proceso se van con algo muy distinto: <strong>claridad, decisiones tomadas y la certeza de que su vida no depende de otros.</strong>
               </p>
-              <p>
-                Hoy, además, la maternidad me llevó a replantearme profundamente cómo quiero vivir mi tiempo y mi vocación. Quiero acompañar a otras mujeres sin renunciar a ver crecer a mi hijo, construyendo una vida coherente con mis valores.
+              <p>Y cuando eso ocurre, empieza a crear una vida diferente.
+Eres capaz de mucho más de lo que hoy imaginas.
+Lo único que necesitas es volver a creer en vos… para empezar a crear la vida que deseas.
+
+
+
+
+
+
+
+
+
+
               </p>
             </div>
 
@@ -92,8 +103,4 @@ const About = () => {
           </div>
         </div>
       </div>
-    </section>);
-
-};
-
-export default About;
+    </section>);};export default About;
