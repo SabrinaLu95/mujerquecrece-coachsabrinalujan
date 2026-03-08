@@ -1,5 +1,6 @@
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
+import ValueProposition from "@/components/ValueProposition";
 import About from "@/components/About";
 import MetodoCrear from "@/components/MetodoCrear";
 import Services from "@/components/Services";
