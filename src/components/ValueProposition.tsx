@@ -12,9 +12,19 @@ const ValueProposition = () => {
             <span className="text-primary">crear la vida que deseás</span>.
           </h2>
 
-          <p className="text-lg md:text-xl text-muted-foreground leading-relaxed max-w-2xl mx-auto">
-            A través del coaching ontológico, te acompaño a transformar tus creencias limitantes en decisiones conscientes, para que recuperes claridad, confianza y dirección.
-          </p>
+          <p className="text-lg md:text-xl text-muted-foreground leading-relaxed max-w-2xl mx-auto">Muchas mujeres viven en automático durante años.
+
+Trabajan, cuidan de otros, cumplen responsabilidades…
+pero dentro suyo sienten que algo no está bien.
+
+Confusión.
+Cansancio.
+La sensación de que su vida podría ser diferente.
+
+Mi trabajo como coach ontológica es acompañarte a detenerte, observar profundamente tu forma de pensar, sentir y actuar, y comenzar a transformar la manera en que creas tu realidad.
+
+No se trata de darte consejos.
+Se trata de ayudarte a descubrir el poder que ya existe dentro de vos.</p>
 
           <div className="grid sm:grid-cols-3 gap-6 pt-8">
             <div className="space-y-2">
@@ -32,8 +42,4 @@ const ValueProposition = () => {
           </div>
         </div>
       </div>
-    </section>
-  );
-};
-
-export default ValueProposition;
+    </section>);};export default ValueProposition;
