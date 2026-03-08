@@ -18,6 +18,7 @@ const Index = () => {
       <ValueProposition />
       <About />
       <MetodoCrear />
+      <CoachingSessions />
       <Services />
       <Resources />
       <Blog />
