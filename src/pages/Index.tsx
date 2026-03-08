@@ -23,6 +23,7 @@ const Index = () => {
       <CoachingSessions />
       <ForWhom />
       <Services />
+      <Testimonials />
       <Resources />
       <Blog />
       <Contact />
