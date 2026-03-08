@@ -16,8 +16,9 @@ const testimonials = [
   {
     name: "Luciana M.",
     role: "Mamá y estudiante universitaria",
-    text: "Pensaba que ya no era mi momento de estudiar. Sabrina me acompañó a organizar mis tiempos y a creer que podía. Este año rindo mis últimas materias.",
+    text: "Pensaba que ya no era mi momento de estudiar. Sabrina me acompañó a organizar mis tiempos y a creer que podía. Finalmente me recibí y cumplí el sueño de tener mi titulo universitario.",
     rating: 5,
+    role: "Mamá y licenciada en enfermería",
   },
   {
     name: "Valentina R.",
