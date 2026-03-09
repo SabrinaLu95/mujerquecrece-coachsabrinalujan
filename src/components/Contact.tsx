@@ -49,7 +49,7 @@ const Contact = () => {
               </a>
 
               <a
-                href="https://instagram.com/"
+                href="https://instagram.com/coach.sabrinalujan"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 p-4 rounded-xl bg-background border border-border hover:border-primary/30 transition-colors"
