@@ -5,16 +5,19 @@ const resources = [
     title: "Guía: Primeros pasos para emprender siendo mamá",
     description: "Un ebook gratuito con herramientas prácticas para dar el primer paso hacia tu emprendimiento.",
     type: "PDF Gratuito",
+    downloadUrl: "",
   },
   {
     title: "Cuaderno de reflexión: ¿Qué quiero para mi vida?",
     description: "Preguntas poderosas para reconectar con tus deseos y diseñar tu próximo capítulo.",
     type: "PDF Gratuito",
+    downloadUrl: "",
   },
   {
     title: "Mini guía de autocuidado para profesionales de la salud",
     description: "Estrategias simples y efectivas para cuidarte mientras cuidás a otros.",
     type: "PDF Gratuito",
+    downloadUrl: "/downloads/mini-guia-autocuidado.pdf",
   },
 ];
 
@@ -53,10 +56,23 @@ const Resources = () => {
                 {resource.description}
               </p>
 
-              <button className="inline-flex items-center gap-2 text-sm font-medium text-primary hover:text-sage-dark transition-colors">
-                <Download className="w-4 h-4" />
-                Descargar gratis
-              </button>
+              {resource.downloadUrl ? (
+                <a
+                  href={resource.downloadUrl}
+                  download
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 text-sm font-medium text-primary hover:text-sage-dark transition-colors"
+                >
+                  <Download className="w-4 h-4" />
+                  Descargar gratis
+                </a>
+              ) : (
+                <button className="inline-flex items-center gap-2 text-sm font-medium text-primary hover:text-sage-dark transition-colors">
+                  <Download className="w-4 h-4" />
+                  Descargar gratis
+                </button>
+              )}
             </div>
           ))}
         </div>
