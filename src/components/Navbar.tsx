@@ -32,7 +32,7 @@ const Navbar = () => {
             </a>
           ))}
           <a
-            href="https://instagram.com/"
+            href="https://instagram.com/coach.sabrinalujan"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"

@@ -38,7 +38,7 @@ const CoachingSessions = () => {
             </p>
 
             <a
-              href="https://wa.me/5491100000000?text=Hola%20Sabrina,%20quiero%20consultar%20por%20una%20sesión"
+              href="https://wa.me/5493518139964?text=Hola%20Sabrina,%20quiero%20consultar%20por%20una%20sesión"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 mt-4 px-6 py-3 rounded-full bg-primary text-primary-foreground font-medium hover:opacity-90 transition-opacity"

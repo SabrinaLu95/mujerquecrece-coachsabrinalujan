@@ -8,7 +8,7 @@ const Contact = () => {
     e.preventDefault();
     const whatsappMsg = `Hola Sabrina, soy ${form.name}. ${form.message}`;
     window.open(
-      `https://wa.me/5491100000000?text=${encodeURIComponent(whatsappMsg)}`,
+      `https://wa.me/5493518139964?text=${encodeURIComponent(whatsappMsg)}`,
       "_blank"
     );
   };
@@ -34,7 +34,7 @@ const Contact = () => {
 
             <div className="space-y-4">
               <a
-                href="https://wa.me/5491100000000?text=Hola%20Sabrina,%20quiero%20consultar%20por%20una%20sesión"
+                href="https://wa.me/5493518139964?text=Hola%20Sabrina,%20quiero%20consultar%20por%20una%20sesión"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 p-4 rounded-xl bg-background border border-border hover:border-primary/30 transition-colors"
@@ -49,7 +49,7 @@ const Contact = () => {
               </a>
 
               <a
-                href="https://instagram.com/"
+                href="https://instagram.com/coach.sabrinalujan"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 p-4 rounded-xl bg-background border border-border hover:border-primary/30 transition-colors"
