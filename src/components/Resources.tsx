@@ -5,16 +5,19 @@ const resources = [
     title: "Guía: Primeros pasos para emprender siendo mamá",
     description: "Un ebook gratuito con herramientas prácticas para dar el primer paso hacia tu emprendimiento.",
     type: "PDF Gratuito",
+    downloadUrl: "",
   },
   {
     title: "Cuaderno de reflexión: ¿Qué quiero para mi vida?",
     description: "Preguntas poderosas para reconectar con tus deseos y diseñar tu próximo capítulo.",
     type: "PDF Gratuito",
+    downloadUrl: "",
   },
   {
     title: "Mini guía de autocuidado para profesionales de la salud",
     description: "Estrategias simples y efectivas para cuidarte mientras cuidás a otros.",
     type: "PDF Gratuito",
+    downloadUrl: "/downloads/mini-guia-autocuidado.pdf",
   },
 ];
 
