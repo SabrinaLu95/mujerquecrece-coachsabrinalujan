@@ -53,10 +53,23 @@ const Resources = () => {
                 {resource.description}
               </p>
 
-              <button className="inline-flex items-center gap-2 text-sm font-medium text-primary hover:text-sage-dark transition-colors">
-                <Download className="w-4 h-4" />
-                Descargar gratis
-              </button>
+              {resource.downloadUrl ? (
+                <a
+                  href={resource.downloadUrl}
+                  download
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 text-sm font-medium text-primary hover:text-sage-dark transition-colors"
+                >
+                  <Download className="w-4 h-4" />
+                  Descargar gratis
+                </a>
+              ) : (
+                <button className="inline-flex items-center gap-2 text-sm font-medium text-primary hover:text-sage-dark transition-colors">
+                  <Download className="w-4 h-4" />
+                  Descargar gratis
+                </button>
+              )}
             </div>
           ))}
         </div>
