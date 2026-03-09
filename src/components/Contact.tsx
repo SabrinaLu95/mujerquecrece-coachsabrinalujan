@@ -8,7 +8,7 @@ const Contact = () => {
     e.preventDefault();
     const whatsappMsg = `Hola Sabrina, soy ${form.name}. ${form.message}`;
     window.open(
-      `https://wa.me/5491100000000?text=${encodeURIComponent(whatsappMsg)}`,
+      `https://wa.me/5493518139964?text=${encodeURIComponent(whatsappMsg)}`,
       "_blank"
     );
   };
