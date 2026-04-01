@@ -11,7 +11,7 @@ const resources = [
     title: "Cuaderno de reflexión: ¿Qué quiero para mi vida?",
     description: "Preguntas poderosas para reconectar con tus deseos y diseñar tu próximo capítulo.",
     type: "PDF Gratuito",
-    downloadUrl: "",
+    downloadUrl: "/downloads/cuaderno-reflexion.pdf",
   },
   {
     title: "Mini guía de autocuidado para profesionales de la salud",
