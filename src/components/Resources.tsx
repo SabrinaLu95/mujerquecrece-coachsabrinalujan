@@ -5,7 +5,7 @@ const resources = [
     title: "Guía: Primeros pasos para emprender siendo mamá",
     description: "Un ebook gratuito con herramientas prácticas para dar el primer paso hacia tu emprendimiento.",
     type: "PDF Gratuito",
-    downloadUrl: "",
+    downloadUrl: "/downloads/guia-primeros-pasos-emprender.pdf",
   },
   {
     title: "Cuaderno de reflexión: ¿Qué quiero para mi vida?",
