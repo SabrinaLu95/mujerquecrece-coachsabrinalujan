@@ -14,6 +14,8 @@ const services = [
       "atravesando un cambio personal o profesional;",
       "necesitando recuperar confianza y claridad.\n\n",
     ],
+    extraContent:
+      "¿Qué podemos trabajar?\n\nAutoconocimiento · límites · autoestima · decisiones · poder personal · vínculos · cambios vitales\n\nNo voy a decirte qué hacer.\n\nVoy a acompañarte a encontrar la claridad necesaria para decidir por vos misma.\n\nProceso individual de 4 sesiones",
   },
   {
     icon: Rocket,
