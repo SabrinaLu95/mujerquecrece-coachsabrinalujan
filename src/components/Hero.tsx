@@ -17,14 +17,15 @@ const Hero = () => {
       <div className="container relative z-10 pt-20">
         <div className="max-w-2xl space-y-8 animate-fade-in-up">
           <p className="text-sm md:text-base font-medium tracking-widest uppercase text-primary">
-            Coach Ontológica · Enfermera
+            · COACH ONTOLÓGICA · 
           </p>
 
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-display font-semibold leading-tight text-foreground">No viniste a este mundo solo a sobrevivir.
-Viniste a crear tu propia realidad.
+          <h1 className="text-4xl md:text-5xl lg:text-6xl font-display font-semibold leading-tight text-foreground">De sobrevivir tu vida a elegirla.
+
+
           </h1>
 
-          <p className="text-lg md:text-xl text-muted-foreground leading-relaxed max-w-xl">Acompaño a mujeres —especialmente profesionales de la salud y madres— que se sienten agotadas, desorientadas o desconectadas de sí mismas a recuperar claridad, confianza y dirección.
+          <p className="text-lg md:text-xl text-muted-foreground leading-relaxed max-w-xl">Coaching para mujeres que están listas para volver a escucharse, recuperar su poder personal y tomar decisiones desde la claridad.
 
 
           </p>
@@ -44,7 +45,7 @@ Viniste a crear tu propia realidad.
               className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-lg border-2 border-primary text-primary font-medium hover:bg-primary hover:text-primary-foreground transition-colors">
               
               <CalendarDays className="w-5 h-5" />
-              Reservar turno
+              Quiero transformar mi vida
             </a>
           </div>
         </div>
