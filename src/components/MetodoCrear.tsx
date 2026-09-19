@@ -1,4 +1,4 @@
-import { Eye, Shield, Compass, Zap, Sparkles } from "lucide-react";
+import { Eye, Shield, Compass, Zap, Sparkles, Target } from "lucide-react";
 
 const steps = [
   {
@@ -31,6 +31,12 @@ const steps = [
     description: "¿Qué aprendiste sobre vos?",
     icon: Sparkles,
   },
+  {
+    letter: "R",
+    title: "Resolver/Elegir",
+    description: "¿Qué decisión vas a tomar y qué acción concreta vas a sostener?",
+    icon: Target,
+  },
 ];
 
 const MetodoCrear = () => {
@@ -45,12 +51,12 @@ const MetodoCrear = () => {
              Método <span className="text-primary">ELEGIR</span>
           </h2>
           <p className="text-muted-foreground leading-relaxed">
-            Un proceso de cinco pasos para transformar tu forma de interpretar la
+            Un proceso de seis pasos para transformar tu forma de interpretar la
             vida y comenzar a crear la realidad que deseas.
           </p>
         </div>
 
-        <div className="grid md:grid-cols-5 gap-6">
+        <div className="grid md:grid-cols-3 lg:grid-cols-6 gap-6">
           {steps.map((step, i) => (
             <div
               key={i}
