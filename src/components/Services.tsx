@@ -10,7 +10,9 @@ const services = [
       "atravesando una decisión importante;",
       "cuestionando un vínculo o una etapa de tu vida;",
       "teniendo dificultades para poner o sostener límites;",
-      "sintiéndote desconectada de vos misma;\n\n",
+      "sintiéndote desconectada de vos misma;",
+      "atravesando un cambio personal o profesional;",
+      "necesitando recuperar confianza y claridad.\n\n",
     ],
   },
   {
