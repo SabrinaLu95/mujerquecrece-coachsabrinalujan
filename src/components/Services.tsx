@@ -83,7 +83,16 @@ const Services = () => {
                 ))}
               </ul>
 
+              {service.extraContent && (
+                <div className="mb-8 p-5 rounded-xl bg-sage-light/50 border border-primary/15">
+                  <p className="text-sm text-muted-foreground leading-relaxed whitespace-pre-line">
+                    {service.extraContent}
+                  </p>
+                </div>
+              )}
+
               <a
+
                 href="https://wa.me/5493518139964?text=Hola%20Sabrina,%20quiero%20consultar%20por%20una%20sesión"
                 target="_blank"
                 rel="noopener noreferrer"
