@@ -8,23 +8,35 @@ const ValueProposition = () => {
           </p>
 
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-display font-semibold text-foreground leading-tight">
-            Te ayudo a reconectar con tu poder interior para que dejes de sobrevivir y empieces a{" "}
-            <span className="text-primary">crear la vida que deseás</span>.
+            No te digo qué hacer,
+
+te ayudo a ver lo que todavía no estás pudiendo ver.
+
+No decidido por vos,
+
+te acompaño a recuperar tu capacidad de decidir.
+
+No prometo salvarte,
+
+te acompaño a construir las herramientas para que puedas sostenerte.
           </h2>
 
-          <p className="text-lg md:text-xl text-muted-foreground leading-relaxed max-w-2xl mx-auto">Muchas mujeres viven en automático durante años.
+          <p className="text-lg md:text-xl text-muted-foreground leading-relaxed max-w-2xl mx-auto">Hay momentos en los que sabés que algo tiene que cambiar, pero no sabés por dónde empezar.
 
-Trabajan, cuidan de otros, cumplen responsabilidades…
-pero dentro suyo sienten que algo no está bien.
+Tal vez te cuesta poner límites, estás viviendo un vínculo que ya no te hace bien, sentís que te perdiste a vos misma o llevás demasiado tiempo tomando decisiones en función de las necesidades y expectativas de los demás.
 
-Confusión.
-Cansancio.
-La sensación de que su vida podría ser diferente.
+No estoy acá para decirte qué hacer.
 
-Mi trabajo como coach ontológica es acompañarte a detenerte, observar profundamente tu forma de pensar, sentir y actuar, y comenzar a transformar la manera en que creas tu realidad.
+Estoy acá para ayudarte a mirar más profundo, cuestionar aquello que hoy te limita y encontrar tus propias respuestas.
 
-No se trata de darte consejos.
-Se trata de ayudarte a descubrir el poder que ya existe dentro de vos.</p>
+A través del coaching ontológico y un proceso de autoconocimiento, te acompaño a:
+
+recuperar claridad sobre lo que realmente querés;
+reconocer patrones y creencias que condicionan tus decisiones;
+fortalecer tu autoestima y confianza personal;
+aprender a poner y sostener límites;
+atravesar procesos de cambio con mayor conciencia;
+tomar decisiones desde tu propia voz, no desde el miedo o la presión de los demás; transformar lo que hoy estás viviendo en una oportunidad para construir una vida más auténtica.</p>
 
           <div className="grid sm:grid-cols-3 gap-6 pt-8">
             <div className="space-y-2">
