@@ -19,14 +19,14 @@ const services = [
   },
   {
     icon: Rocket,
-    title: "Coaching para madres que desean emprender",
+    title: "Espacios grupales: Transformarte también puede ser un proceso compartido.",
     description:
-      "Tenés ideas, ganas y sueños, pero no sabés por dónde empezar. Te acompaño a diseñar un camino hacia tu emprendimiento desde la claridad, sin culpa y respetando tus tiempos.",
+      "Los espacios grupales están pensados para mujeres que quieren crecer, cuestionarse y conocerse en compañía de otras personas que también están atravesando procesos de transformación.\n\nSon espacios de reflexión, aprendizaje y conversación donde vas a poder:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
     benefits: [
-      "Claridad sobre tu propósito y propuesta de valor",
-      "Organización del tiempo sin descuidar la maternidad",
-      "Superación de miedos y creencias limitantes",
-      "Plan de acción personalizado",
+      "observar patrones; cuestionar creencias;",
+      "compartir experiencias; descubrir nuevas perspectivas\ndescubrir nuevas perspectivas;",
+      "aprender herramientas",
+      "sentirte acompañada\n\n\nCada encuentro parte de una temática y busca llevarte de la reflexión a la acción.",
     ],
   },
   {
