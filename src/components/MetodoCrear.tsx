@@ -90,7 +90,7 @@ const MetodoCrear = () => {
 
         <div className="text-center mt-12">
           <p className="italic text-muted-foreground max-w-xl mx-auto">
-            "No estás aquí para sobrevivir, estás aquí para crear."
+            "No quiero decirte qué hacer. Quiero ayudarte a escucharte lo suficiente como para que puedas decidir por vos misma."
           </p>
         </div>
       </div>
