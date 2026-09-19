@@ -21,13 +21,16 @@ const services = [
     icon: Rocket,
     title: "Espacios grupales: Transformarte también puede ser un proceso compartido.",
     description:
-      "Los espacios grupales están pensados para mujeres que quieren crecer, cuestionarse y conocerse en compañía de otras personas que también están atravesando procesos de transformación.\n\nSon espacios de reflexión, aprendizaje y conversación donde vas a poder:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "Los espacios grupales están pensados para mujeres que quieren crecer, cuestionarse y conocerse en compañía de otras personas que también están atravesando procesos de transformación.\n\nSon espacios de reflexión, aprendizaje y conversación donde vas a poder:",
     benefits: [
       "observar patrones; cuestionar creencias;",
       "compartir experiencias;",
       "aprender herramientas",
-      "sentirte acompañad\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "sentirte acompañada",
     ],
+    extraContent:
+      "Cada encuentro parte de una temática y busca llevarte de la reflexión a la acción.",
+    extraVariant: "centered",
   },
   {
     icon: GraduationCap,
@@ -70,29 +73,34 @@ const Services = () => {
                 {service.title}
               </h3>
 
-              <p className="text-muted-foreground leading-relaxed mb-6">
+              <p className="text-muted-foreground leading-relaxed mb-6 whitespace-pre-line">
                 {service.description}
               </p>
 
               <ul className="space-y-2 mb-8">
                 {service.benefits.map((benefit, j) => (
-                  <li key={j} className="flex items-start gap-2 text-sm text-muted-foreground">
-                    <span className="w-1.5 h-1.5 rounded-full bg-primary mt-1.5 shrink-0" />
+                  <li key={j} className="flex items-start gap-2 text-muted-foreground leading-relaxed">
+                    <span className="w-1.5 h-1.5 rounded-full bg-primary mt-2 shrink-0" />
                     {benefit}
                   </li>
                 ))}
               </ul>
 
               {service.extraContent && (
-                <div className="mb-8 p-5 rounded-xl bg-sage-light/50 border border-primary/15">
-                  <p className="text-sm text-muted-foreground leading-relaxed whitespace-pre-line">
+                <div
+                  className={
+                    service.extraVariant === "centered"
+                      ? "mb-8 text-center"
+                      : "mb-8 p-5 rounded-xl bg-sage-light/50 border border-primary/15"
+                  }
+                >
+                  <p className="text-muted-foreground leading-relaxed whitespace-pre-line">
                     {service.extraContent}
                   </p>
                 </div>
               )}
 
               <a
-
                 href="https://wa.me/5493518139964?text=Hola%20Sabrina,%20quiero%20consultar%20por%20una%20sesión"
                 target="_blank"
                 rel="noopener noreferrer"
