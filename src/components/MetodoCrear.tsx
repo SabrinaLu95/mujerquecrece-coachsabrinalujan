@@ -1,17 +1,17 @@
-import { Eye, Shield, Compass, Zap, Sparkles, Target } from "lucide-react";
+import { Ear, Navigation, Compass, Zap, Sparkles, Target } from "lucide-react";
 
 const steps = [
   {
     letter: "E",
     title: "Escuchar",
     description: "¿Que esta pasando realmente?",
-    icon: Eye,
+    icon: Ear,
   },
   {
     letter: "L",
     title: "Localizar",
     description: "¿Donde estas poniendo tu poder?",
-    icon: Shield,
+    icon: Navigation,
   },
   {
     letter: "E",
