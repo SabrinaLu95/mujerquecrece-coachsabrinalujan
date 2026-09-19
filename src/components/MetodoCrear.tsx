@@ -5,7 +5,7 @@ const steps = [
     letter: "E",
     title: "Escuchar",
     description: "¿Que esta pasando realmente?",
-    icon: Eye,
+    icon: Ear,
   },
   {
     letter: "L",
