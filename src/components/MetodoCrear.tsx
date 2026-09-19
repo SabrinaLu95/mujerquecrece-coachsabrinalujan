@@ -16,7 +16,7 @@ const steps = [
   {
     letter: "E",
     title: "Explorar",
-    description: "¿Que posibilidades no estas poniendo ver?",
+    description: "¿Que posibilidades no estas pudiendo ver?",
     icon: Compass,
   },
   {
