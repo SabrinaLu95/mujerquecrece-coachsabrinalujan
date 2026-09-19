@@ -24,9 +24,9 @@ const services = [
       "Los espacios grupales están pensados para mujeres que quieren crecer, cuestionarse y conocerse en compañía de otras personas que también están atravesando procesos de transformación.\n\nSon espacios de reflexión, aprendizaje y conversación donde vas a poder:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
     benefits: [
       "observar patrones; cuestionar creencias;",
-      "compartir experiencias; descubrir nuevas perspectivas\ndescubrir nuevas perspectivas;",
+      "compartir experiencias;",
       "aprender herramientas",
-      "sentirte acompañada\n\n\nCada encuentro parte de una temática y busca llevarte de la reflexión a la acción.",
+      "sentirte acompañad\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
     ],
   },
   {
