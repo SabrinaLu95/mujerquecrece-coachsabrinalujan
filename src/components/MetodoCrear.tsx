@@ -1,4 +1,4 @@
-import { Eye, Shield, Compass, Zap, Sparkles, Target } from "lucide-react";
+import { Ear, Shield, Compass, Zap, Sparkles, Target } from "lucide-react";
 
 const steps = [
   {
