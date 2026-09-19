@@ -1,4 +1,4 @@
-import { Eye, Shield, Compass, Zap, Sparkles } from "lucide-react";
+import { Eye, Shield, Compass, Zap, Sparkles, Target } from "lucide-react";
 
 const steps = [
   {
@@ -16,7 +16,7 @@ const steps = [
   {
     letter: "E",
     title: "Explorar",
-    description: "¿Que posibilidades no estas pudiendo ver?",
+    description: "¿Que posibilidades no estas poniendo ver?",
     icon: Compass,
   },
   {
@@ -30,6 +30,12 @@ const steps = [
     title: "Integrar",
     description: "¿Qué aprendiste sobre vos?",
     icon: Sparkles,
+  },
+  {
+    letter: "R",
+    title: "Resolver/Elegir",
+    description: "¿Qué decisión vas a tomar y qué acción concreta vas a sostener?",
+    icon: Target,
   },
 ];
 
