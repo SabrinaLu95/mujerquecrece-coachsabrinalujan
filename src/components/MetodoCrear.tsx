@@ -11,7 +11,7 @@ const steps = [
     letter: "L",
     title: "Localizar",
     description: "¿Donde estas poniendo tu poder?",
-    icon: Navigation,
+    icon: LocateFixed,
   },
   {
     letter: "E",
