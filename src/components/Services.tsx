@@ -3,14 +3,14 @@ import { Heart, Rocket, GraduationCap, MessageCircle } from "lucide-react";
 const services = [
   {
     icon: Heart,
-    title: "Coaching para profesionales de la salud",
+    title: "Coaching 1:1 Un espacio para volver a escucharte",
     description:
-      "¿Sentís agotamiento emocional, desmotivación o crisis vocacional? Este espacio es para vos. Trabajamos juntas para reencontrar el sentido de tu profesión, establecer límites saludables y reconectar con tu bienestar.",
+      "Para cuando sentís que hay algo en tu vida que necesita cambiar, pero todavía no tenés claridad sobre qué hacer. En este proceso individual trabajamos juntas para que puedas mirar tu situación desde nuevas perspectivas, reconocer aquello que hoy te está limitando y conectar con tus propias respuestas.\u00a0\nPuede ser para vos si estás:\n\n\n",
     benefits: [
-      "Gestión del estrés y agotamiento emocional",
-      "Reconexión con tu vocación",
-      "Herramientas para el autocuidado profesional",
-      "Claridad para tomar nuevas decisiones",
+      "atravesando una decisión importante;",
+      "cuestionando un vínculo o una etapa de tu vida;",
+      "teniendo dificultades para poner o sostener límites;",
+      "sintiéndote desconectada de vos misma;\n\n",
     ],
   },
   {
