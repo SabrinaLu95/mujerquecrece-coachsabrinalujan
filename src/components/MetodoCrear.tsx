@@ -2,38 +2,33 @@ import { Eye, Shield, Compass, Zap, Sparkles } from "lucide-react";
 
 const steps = [
   {
-    letter: "C",
-    title: "Consciencia",
-    description:
-      "Identificamos creencias, emociones y patrones que están condicionando tu vida.",
+    letter: "E",
+    title: "Escuchar",
+    description: "¿Que esta pasando realmente?",
     icon: Eye,
   },
   {
-    letter: "R",
-    title: "Responsabilidad",
-    description:
-      "Dejas de vivir desde la culpa o el victimismo y comienzas a recuperar tu poder personal.",
+    letter: "L",
+    title: "Localizar",
+    description: "¿Donde estas poniendo tu poder?",
     icon: Shield,
   },
   {
     letter: "E",
-    title: "Elección",
-    description:
-      "Aprendes a tomar decisiones más alineadas con quien realmente eres.",
+    title: "Explorar",
+    description: "¿Que posibilidades no estas pudiendo ver?",
     icon: Compass,
   },
   {
-    letter: "A",
-    title: "Acción",
-    description:
-      "Transformamos nuevas perspectivas en acciones concretas.",
+    letter: "G",
+    title: "Gestionar",
+    description: "¿Qué emociones, conversaciones y límites necesitan abordar?",
     icon: Zap,
   },
   {
-    letter: "R",
-    title: "Realidad nueva",
-    description:
-      "Cuando cambian tus decisiones, cambia tu vida.",
+    letter: "I",
+    title: "Integrar",
+    description: "¿Qué aprendiste sobre vos?",
     icon: Sparkles,
   },
 ];
@@ -47,7 +42,7 @@ const MetodoCrear = () => {
             Mi Método
           </p>
           <h2 className="text-3xl md:text-4xl font-display font-semibold text-foreground mb-4">
-            Método <span className="text-primary">CREAR</span>
+             Método <span className="text-primary">ELEGIR</span>
           </h2>
           <p className="text-muted-foreground leading-relaxed">
             Un proceso de cinco pasos para transformar tu forma de interpretar la

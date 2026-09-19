@@ -23,64 +23,124 @@ const About = () => {
               Sobre Mí
             </p>
             <h2 className="text-3xl md:text-4xl font-display font-semibold text-foreground leading-tight">
-              Mi camino: de cuidar a otros a cuidarme a mí misma
+              Mi camino: de víctima a creadora de mi historia.
             </h2>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
-              <p>Desde que era niña supe que quería dedicar mi vida a ayudar a otros elegí enfermería, convencida de que quería estar cerca de las personas en los momentos más vulnerables de sus vidas.
+              <p>{`Durante mucho tiempo creí que ser fuerte significaba poder soportarlo todo.
 
-              </p>
-              <p>
+Aprendí a hacerme cargo demasiado pronto. Viví experiencias que me obligaron a crecer antes de tiempo, atravesé vínculos que me hicieron cuestionar mi propio valor y durante años sentí que las circunstancias, las personas y lo que me había tocado vivir tenían más poder sobre mi vida que yo misma.
 
-              </p>
-              <p>
-                Durante años ejercí la profesión con entrega y compromiso. Sin embargo, con el tiempo empecé a sentir un profundo agotamiento. El sistema de salud muchas veces se vuelve ingrato: largas jornadas, desgaste físico y emocional, y una sensación constante de que el esfuerzo nunca es suficiente.
-              </p>
-              <p>
-                Ese cansancio me llevó a hacerme una pregunta profunda: <br />
-                ¿Esta es realmente la única forma de ayudar a las personas?
-              </p>
-              <p>
-                En ese proceso descubrí el coaching ontológico. Mientras cursaba la formación comencé a experimentar una transformación personal muy fuerte. Dejé de sentirme víctima de las circunstancias y empecé a comprender algo fundamental:
-              </p>
-              <p className="italic font-semibold text-foreground">
-                Nuestra realidad cambia cuando cambia nuestra forma de interpretarla.
-              </p>
-              <p>
-                En 2022 sentí la necesidad de volver a mi centro. Tomé una decisión que transformó mi vida: dejé temporalmente mi trabajo como enfermera y me mudé a Brasil. Allí trabajé en distintos espacios mientras profundizaba en terapias alternativas y en mi propio proceso personal.
-              </p>
-              <p>
-                Ese viaje me permitió comprender algo que hoy es parte central de mi mirada: somos energía en constante transformación, y cada persona que aparece en nuestra vida refleja algo que también está en nosotros.
-              </p>
-              <p>
-                Volví con una mirada completamente distinta. Regresé a la enfermería, pero ahora con herramientas nuevas, con más conciencia y con una forma diferente de relacionarme con mi trabajo y con las personas. Sin embargo, dentro mío ya sabía algo: <br />
-                <strong>La forma más profunda de ayudar a alguien no es hacer las cosas por esa persona, sino ayudarla a descubrir su propio poder.</strong>
-              </p>
-              <p>
-                Hoy acompaño especialmente a mujeres que sienten que algo dentro suyo quiere cambiar, pero todavía no se animan a dar el paso.
-              </p>
-              <p>
-                Mujeres con ideas, sueños o proyectos que parecen imposibles. Mujeres que sienten miedo, confusión o incertidumbre. Mujeres que han olvidado que tienen el poder de crear su propia realidad.
-              </p>
-              <p>
-                Mi trabajo como coach ontológica es acompañarte a ordenar tu mundo interno, cuestionar las creencias que te limitan y recuperar la confianza en vos misma para tomar decisiones conscientes.
-              </p>
-              <p>
-                Las mujeres que llegan a mis sesiones suelen sentirse desbordadas, con muchas ideas y poca claridad. Después del proceso se van con algo muy distinto: <strong>claridad, decisiones tomadas y la certeza de que su vida no depende de otros.</strong>
-              </p>
-              <p>Y cuando eso ocurre, empieza a crear una vida diferente.
-Eres capaz de mucho más de lo que hoy imaginas.
-Lo único que necesitas es volver a creer en vos… para empezar a crear la vida que deseas.
+Llegué a sentirme víctima de mi propia historia.
 
+Y durante mucho tiempo no supe que existía otra manera de vivir.
 
+Hasta que alguien me hizo una pregunta diferente.
 
+A los 18 años apareció en mi vida una persona que no vino a rescatarme.
 
+Me dio algo mucho más poderoso: herramientas para empezar a hacerme responsable de mi propia vida.
 
+Por primera vez pude comprender que mi historia explicaba muchas de las cosas que me habían sucedido, pero no necesariamente tenía que determinar todo lo que vendría después.
 
+Empecé a preguntarme:
 
+¿Qué puedo hacer yo con esto?
 
+Esa pregunta cambió mi vida.
 
+Empecé a conocerme.
 
-              </p>
+A cuestionar mis creencias.
+
+A pedir ayuda.
+
+A tomar decisiones.
+
+A decir que no.
+
+A poner límites.
+
+A alejarme de aquello que me hacía daño.
+
+A equivocarme y volver a intentarlo.
+
+Y, sobre todo, empecé a descubrir algo que hoy considero fundamental:
+
+no siempre podemos elegir lo que nos sucede, pero podemos aprender a recuperar nuestra capacidad de elegir qué hacemos con ello.
+
+Mi propia transformación se convirtió en una búsqueda.
+
+Quise entender más.
+
+Estudié.
+
+Me formé como enfermera y trabajé en cuidados críticos pediátricos, una experiencia que me enseñó profundamente sobre la vulnerabilidad humana, la escucha y la importancia de acompañar a las personas en momentos difíciles.
+
+Después me formé como coach ontológica y coach de grupos.
+
+También exploré herramientas de autoconocimiento y distintas miradas sobre el bienestar y la transformación personal.
+
+Pero hubo algo que permaneció constante en todo ese camino:
+
+mi fascinación por las personas.
+
+Por sus historias.
+
+Por aquello que no dicen.
+
+Por las decisiones que postergan.
+
+Por las posibilidades que todavía no pueden ver.
+
+Por ese momento en el que alguien deja de preguntarse “¿por qué me pasa esto?” y empieza a preguntarse:
+
+“¿Qué puedo hacer a partir de ahora?”
+
+Y ahí entendí para qué quiero hacer coaching.
+
+No quiero decirle a una mujer qué decisión tomar.
+
+No quiero convertirme en otra persona que le diga cómo debería vivir.
+
+Y mucho menos quiero que dependa de mí para sentirse capaz.
+
+Quiero acompañarla a encontrarse con sus propias respuestas.
+
+A través de la escucha, preguntas profundas y conversaciones que muchas veces pueden resultar incómodas, creo espacios donde pueda detenerse, mirar su vida desde otra perspectiva y reconocer posibilidades que quizás todavía no estaba pudiendo ver.
+
+Porque para mí, empoderar no es decirle a alguien “vos podés” y dejarla sola.
+
+Es acompañarla a descubrir por sí misma qué quiere, qué necesita, qué está dispuesta a cambiar y qué decisión quiere tomar.
+
+Por eso nació esta propuesta.
+
+Hoy acompaño a mujeres que sienten que hay algo en su vida que ya no pueden seguir ignorando.
+
+Mujeres que necesitan claridad.
+
+Que quieren recuperar su voz.
+
+Que están aprendiendo a poner límites.
+
+Que atraviesan cambios.
+
+Que están cuestionando vínculos, decisiones o formas de vivir que ya no las representan.
+
+Mujeres que, quizás, durante mucho tiempo estuvieron ocupándose de todos menos de ellas mismas.
+
+No prometo tener todas las respuestas.
+
+Te ofrezco algo diferente:
+
+un espacio para que puedas encontrar las tuyas.
+
+Porque yo también tuve que aprender que mi vida no era solamente aquello que me había sucedido.
+
+Y hoy quiero acompañarte a descubrir qué puede ser la tuya cuando empezás a elegirla conscientemente.
+
+De sobrevivir tu vida a elegirla.
+
+Ese es el camino que me trajo hasta acá.`}</p>
             </div>
 
             <div className="pt-4">
