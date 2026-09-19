@@ -1,4 +1,4 @@
-import { Ear, Navigation, Compass, Zap, Sparkles, Target } from "lucide-react";
+import { Ear, LocateFixed, Compass, Zap, Sparkles, Target } from "lucide-react";
 
 const steps = [
   {
@@ -11,7 +11,7 @@ const steps = [
     letter: "L",
     title: "Localizar",
     description: "¿Donde estas poniendo tu poder?",
-    icon: Navigation,
+    icon: LocateFixed,
   },
   {
     letter: "E",
