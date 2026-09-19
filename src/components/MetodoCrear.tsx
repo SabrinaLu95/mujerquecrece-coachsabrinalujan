@@ -51,7 +51,7 @@ const MetodoCrear = () => {
              Método <span className="text-primary">ELEGIR</span>
           </h2>
           <p className="text-muted-foreground leading-relaxed">
-            Un proceso de cinco pasos para transformar tu forma de interpretar la
+            Un proceso de seis pasos para transformar tu forma de interpretar la
             vida y comenzar a crear la realidad que deseas.
           </p>
         </div>
