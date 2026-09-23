@@ -29,8 +29,7 @@ const services = [
       "sentirte acompañada",
     ],
     extraContent:
-      "Cada encuentro parte de una temática y busca llevarte de la reflexión a la acción.",
-    extraVariant: "centered",
+      "¿Qué trabajamos en cada encuentro?\n\nReflexión · patrones · creencias · experiencias · herramientas · acompañamiento\n\nCada encuentro parte de una temática y busca llevarte de la reflexión a la acción.",
   },
   {
     icon: GraduationCap,
@@ -87,13 +86,7 @@ const Services = () => {
               </ul>
 
               {service.extraContent && (
-                <div
-                  className={
-                    service.extraVariant === "centered"
-                      ? "mb-8 text-center"
-                      : "mb-8 p-5 rounded-xl bg-sage-light/50 border border-primary/15"
-                  }
-                >
+                <div className="mb-8 p-5 rounded-xl bg-sage-light/50 border border-primary/15">
                   <p className="text-muted-foreground leading-relaxed whitespace-pre-line">
                     {service.extraContent}
                   </p>
