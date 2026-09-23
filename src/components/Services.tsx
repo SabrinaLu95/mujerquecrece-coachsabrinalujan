@@ -29,8 +29,7 @@ const services = [
       "sentirte acompañada",
     ],
     extraContent:
-      "Cada encuentro parte de una temática y busca llevarte de la reflexión a la acción.",
-    extraVariant: "centered",
+      "¿Qué trabajamos en cada encuentro?\n\nReflexión · patrones · creencias · experiencias · herramientas · acompañamiento\n\nCada encuentro parte de una temática y busca llevarte de la reflexión a la acción.",
   },
   {
     icon: GraduationCap,
