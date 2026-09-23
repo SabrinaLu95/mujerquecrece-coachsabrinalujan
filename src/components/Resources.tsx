@@ -5,7 +5,7 @@ const resources = [
     title: "Mi rueda de la vida",
     description: "Descarga esta poderosa herramienta de observación para hacer un analisis de tu realidad actual",
     type: "PDF Gratuito",
-    downloadUrl: "/downloads/guia-primeros-pasos-emprender.pdf",
+    downloadUrl: "/downloads/rueda-de-la-vida.pdf",
   },
   {
     title: "Cuaderno de reflexión: ¿Qué quiero para mi vida?",
