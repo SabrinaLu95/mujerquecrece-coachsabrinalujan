@@ -1,17 +1,17 @@
 const posts = [
   {
-    title: "El agotamiento no es debilidad: cómo reconocer el burnout",
-    excerpt: "Muchas profesionales de la salud normalizan el cansancio extremo. Aprendé a identificar las señales.",
+    title: "\"Mis 5 libros de desarrollo personal favoritos que cambiaron mi forma de pensar\"",
+    excerpt: "Aquí te cuento cuales son mis libros de cabecera y te doy una reseña de cada uno y porque volvería a elegirlos. ",
     date: "Próximamente",
   },
   {
-    title: "Emprender siendo mamá: mitos y verdades",
-    excerpt: "Rompemos con las creencias que te frenan y construimos una mirada más compasiva del emprendimiento.",
+    title: "\"Cuidado personal no es solo ir al spa: 7 formas gratuitas de recargar tu energía mental\"",
+    excerpt: "Ideas de autocuidado emocional, límites digitales y descanso real.",
     date: "Próximamente",
   },
   {
-    title: "Estudiar y maternar: es posible",
-    excerpt: "Historias reales y estrategias para quienes eligen seguir formándose sin abandonar su rol de madre.",
+    title: "\"Bitácora de gratitud: cómo 3 minutos de escritura al día pueden transformar tu enfoque\"",
+    excerpt: "Beneficios de la escritura enfocada en el agradecimiento.",
     date: "Próximamente",
   },
 ];
