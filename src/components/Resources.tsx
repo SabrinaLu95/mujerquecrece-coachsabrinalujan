@@ -13,12 +13,6 @@ const resources = [
     type: "PDF Gratuito",
     downloadUrl: "/downloads/cuaderno-reflexion.pdf",
   },
-  {
-    title: "Mini guía de autocuidado para profesionales de la salud",
-    description: "Estrategias simples y efectivas para cuidarte mientras cuidás a otros.",
-    type: "PDF Gratuito",
-    downloadUrl: "/downloads/mini-guia-autocuidado.pdf",
-  },
 ];
 
 const Resources = () => {
@@ -34,7 +28,7 @@ const Resources = () => {
           </h2>
         </div>
 
-        <div className="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+        <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
           {resources.map((resource, i) => (
             <div
               key={i}
