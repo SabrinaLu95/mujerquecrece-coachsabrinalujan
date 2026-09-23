@@ -1,4 +1,4 @@
-import { Heart, Rocket, GraduationCap, MessageCircle } from "lucide-react";
+import { Heart, Rocket, MessageCircle } from "lucide-react";
 
 const services = [
   {
@@ -31,18 +31,6 @@ const services = [
     extraContent:
       "¿Qué trabajamos en cada encuentro?\n\nReflexión · patrones · creencias · experiencias · herramientas · acompañamiento\n\nCada encuentro parte de una temática y busca llevarte de la reflexión a la acción.",
   },
-  {
-    icon: GraduationCap,
-    title: "Coaching para madres que quieren estudiar",
-    description:
-      "Querés iniciar o retomar tus estudios universitarios sin abandonar tu maternidad. Trabajamos tu organización, motivación y las emociones que surgen en este camino.",
-    benefits: [
-      "Estrategias para conciliar estudio y maternidad",
-      "Motivación y constancia en el proceso",
-      "Manejo de la culpa y las expectativas",
-      "Acompañamiento emocional durante la carrera",
-    ],
-  },
 ];
 
 const Services = () => {
@@ -58,7 +46,7 @@ const Services = () => {
           </h2>
         </div>
 
-        <div className="grid md:grid-cols-3 gap-8">
+        <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
           {services.map((service, i) => (
             <div
               key={i}
