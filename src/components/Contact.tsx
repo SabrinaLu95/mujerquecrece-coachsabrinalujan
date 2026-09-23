@@ -24,11 +24,11 @@ const Contact = () => {
                 Contacto
               </p>
               <h2 className="text-3xl md:text-4xl font-display font-semibold text-foreground leading-tight">
-                Estoy acá para escucharte
+                Estoy acá para que seas escuchada
               </h2>
               <p className="mt-4 text-muted-foreground leading-relaxed">
                 Si sentís que es tu momento de transformar algo en tu vida, escribime. La primera conversación
-                es sin compromiso.
+                es de regalo.
               </p>
             </div>
 
